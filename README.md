@@ -2,7 +2,7 @@
 how accurately converts chat-style Singlish input into Sinhala output: 
 Singlish automated testing using Playwright
 
-Repository link - 
+Repository link - https://github.com/yohan317/ITPM_Assaignment1
 
 ## Tools & Technologies utilized
 - Python
